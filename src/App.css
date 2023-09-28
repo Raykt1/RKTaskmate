@@ -1,0 +1,32 @@
+.logo {
+    height: 100px;
+}
+
+.frm {
+    display: flex;
+    justify-content: center;
+    margin: 20px 20px;
+}
+
+.txt {
+    height: 50px;
+    width: 1000px;
+    padding-left: 20px;
+}
+
+.btn {
+    border-radius: 10px;
+    background: rgb(13, 178, 243);
+    color: aliceblue;
+    width: 100px;
+    font-size: 20px;
+    margin-left: 20px;
+    border: 0px solid;
+
+}
+
+.show1 {
+    display: flex;
+    justify-content: space-between;
+
+}
